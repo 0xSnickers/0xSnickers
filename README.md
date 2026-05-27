@@ -2,8 +2,10 @@
 
 ### 🚀 Welcome to my zone
 
-![Snickers](https://github.com/0xSnickers/0xsnickers-website/blob/main/public/images/cat.jpg)  
 **Snickers** It's my cat 🐱, and also the soul of this GitHub；
+<p align="center">
+  <img src="[snickers.jpg](https://github.com/0xSnickers/0xsnickers-website/blob/main/public/images/cat.jpg)" width="300" alt="My cat Snickers">
+</p>
 
 ---
 
