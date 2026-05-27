@@ -1,9 +1,7 @@
 ## Hi there 👋
 
-### 🚀 Welcome to my zone
-
 **Snickers** It's my cat 🐱, and also the soul of this GitHub；
-<p align="center">
+<p align="left">
   <img src="https://github.com/0xSnickers/0xsnickers-website/blob/main/public/images/cat.jpg" width="300" alt="My cat Snickers">
 </p>
 
