@@ -18,8 +18,9 @@
 ### 📫 Contact Me
 
 - **Email**: [jaystephen1997@gmail.com](mailto:jaystephen1997@gmail.com)
-- **X / Twitter**: [@0x_snickers](https://x.com/0x_snickers)
-- **Website**: [0xsnickers.lol](https://0xsnickers.lol)
+- **X / Twitter**: <a href="https://x.com/0x_snickers" target="_blank" rel="noopener noreferrer">@0x_snickers</a>
+- **Website**: <a href="https://0xsnickers.lol" target="_blank" rel="noopener noreferrer">0xsnickers.lol</a>
+
 
 ---
 
