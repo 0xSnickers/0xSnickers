@@ -19,6 +19,7 @@
 
 - **Email**: [jaystephen1997@gmail.com](mailto:jaystephen1997@gmail.com)
 - **X / Twitter**: [@0x_snickers](https://x.com/0x_snickers)
+- **Website**: [0xsnickers.lol](https://0xsnickers.lol)
 
 ---
 
