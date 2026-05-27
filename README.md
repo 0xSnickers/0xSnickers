@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**Snickers** It's my cat 🐱, and also the soul of this GitHub；
+**Snickers** It's my cat 🐱, and also the soul of this GitHub
 <p align="left">
   <img src="https://github.com/0xSnickers/0xsnickers-website/blob/main/public/images/cat2.png" width="300" alt="My cat Snickers">
 </p>
@@ -9,9 +9,9 @@
 
 ### 👨‍💻 About Me
 
-- 📖 I'm currently learning Solidity & Solana smart contracts；
-- 💡 Areas of interest: Smart contracts, MEME, on-chain data analytics
-
+- 🌱 Currently learning on **Solidity** and **Solana** smart contract development.
+- 💡 I enjoy building random "vibe coding" projects — those spontaneous, fun ideas that pop into my head.
+- 📝 Open to collaboration! Feel free to browse my repos, open Issues, or submit PRs.
 
 ---
 
