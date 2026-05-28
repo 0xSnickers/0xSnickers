@@ -9,9 +9,9 @@
 
 ### 👨‍💻 About Me
 
+- 👨‍💻 Front-end developer currently leveling up to full-stack.
 - 🌱 Currently learning on **Solidity** and **Solana** smart contract development.
-- 💡 I enjoy building random "vibe coding" projects — those spontaneous, fun ideas that pop into my head.
-- 📝 Open to collaboration! Feel free to browse my repos, open Issues, or submit PRs.
+- 💡 All accumulation is building strength for the future.
 
 ---
 
