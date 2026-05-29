@@ -26,8 +26,8 @@
 
 ### 📫 Contact Me
 
-- **Email**: [jaystephen1997@gmail.com](mailto:jaystephen1997@gmail.com)
+- **Website**: <a href="https://0xsnickers.lol" target="_blank" rel="noopener noreferrer">0xsnickers.lol</a>
 - **X / Twitter**: <a href="https://x.com/0x_snickers" target="_blank" rel="noopener noreferrer">士力架🔶Snickers</a>
 - **Telegram**: <a href="https://t.me/hi_snickers_lol" target="_blank" rel="noopener noreferrer">士力架🔶Snickers</a>
-- **Website**: <a href="https://0xsnickers.lol" target="_blank" rel="noopener noreferrer">0xsnickers.lol</a>
+- **Email**: [jaystephen1997@gmail.com](mailto:jaystephen1997@gmail.com)
 
